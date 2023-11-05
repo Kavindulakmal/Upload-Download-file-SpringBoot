@@ -7,8 +7,8 @@ server.port=<your port>
 ```
 to the application.properties file
 
-###To Upload
-http://localhost:8080/image<be>
+To Upload
+http://localhost:8080/image<br>
 
-###To Download
+To Download
 http://localhost:8080/image/<file-Name>
