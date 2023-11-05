@@ -7,10 +7,19 @@ server.port=<your port>
 ```
 to the application.properties file
 
-##Endpoints
+Endpoints
 
 To Upload
 http://localhost:8080/image<br>
 
 To Download
 http://localhost:8080/image/<file-Name>
+
+
+### Contributing
+Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change. Thanks!
+
+Happy Coding!!!
+
+### Copyright
+© KAVINDU™ | 2023
