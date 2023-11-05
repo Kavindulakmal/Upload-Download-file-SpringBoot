@@ -7,6 +7,8 @@ server.port=<your port>
 ```
 to the application.properties file
 
+##Endpoints
+
 To Upload
 http://localhost:8080/image<br>
 
