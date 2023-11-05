@@ -13,7 +13,7 @@ To Upload
 http://localhost:8080/image<br>
 
 To Download
-http://localhost:8080/image/<file-Name>
+http://localhost:8080/image/your-file-name
 
 
 ### Contributing
